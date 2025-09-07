@@ -7,4 +7,10 @@ Edit1
 Edit2
 Edit3
 Edit4(((((((((((((((((((d
- 在main 分支修改 Creating a new branch is quick & simple. 09:34 2025-09-07
+
+Creating a new branch is quick AND simple. 09:31 2025-09-07
+在main 分支修改 Creating a new branch is quick & simple. 09:34 2025-09-07
+Conflicts has been deal 
+ 
+
+ 
